@@ -3,7 +3,7 @@
 ## Objectives
 - set up Jest for testing Node.js code
 - write tests for API endpoints
-- use Heroku Postgres in production
+- use Heroku Postgres in production (npm i pg)
 
 component(props) => UI;
 
